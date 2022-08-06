@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AndroidAutomatic" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/color_000000</item>
+        <item name="colorPrimaryVariant">@color/color_000000</item>
+        <item name="colorOnPrimary">@color/color_000000</item>
+    </style>
+</resources>
